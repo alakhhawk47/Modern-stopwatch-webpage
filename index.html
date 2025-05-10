@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synthwave Stopwatch</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="background-animation"></div>
+    
+    <div class="stopwatch-container">
+        <h1>CYBER<span class="title-highlight">WATCH</span></h1>
+
+        <div class="time-display">
+            <span id="minutes">00</span><span class="time-separator">:</span><span id="seconds">00</span><span class="time-separator">:</span><span id="milliseconds">00</span>
+        </div>
+
+        <div class="controls">
+            <button id="startBtn" class="btn start"><i class="fas fa-play"></i> Start</button>
+            <button id="pauseBtn" class="btn pause"><i class="fas fa-pause"></i> Pause</button>
+            <button id="resetBtn" class="btn reset"><i class="fas fa-redo-alt"></i> Reset</button>
+            <button id="lapBtn" class="btn lap"><i class="fas fa-flag-checkered"></i> Lap</button>
+        </div>
+
+        <div class="laps-container">
+            <h2><i class="fas fa-list-ol"></i> LAPS</h2>
+            <ol id="lapsList"></ol>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
