@@ -23,3 +23,17 @@ This project allows users to start, pause, and reset time with a clean and minim
 
 ## 📂 Project Structure
 ![Screenshot](Screenshot_20260220_001906.jpg)
+
+## 💻 How to Run Locally
+1. Clone the repository
+2. Open project folder
+3. Open `index.html` in browser
+4. Use stopwatch
+
+## 🌱 Learning Purpose
+This project was created to practice JavaScript concepts like DOM manipulation, event handling, and time functions while building a modern UI stopwatch.
+
+## 👨‍💻 Author
+**Alakh Raj Singh**  
+GitHub: https://github.com/alakhhawk47
+
