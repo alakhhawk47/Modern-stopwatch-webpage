@@ -22,3 +22,4 @@ This project allows users to start, pause, and reset time with a clean and minim
 - Netlify (Deployment)
 
 ## 📂 Project Structure
+![Screenshot](Screenshot_20260220_001906.jpg)
