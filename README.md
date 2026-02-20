@@ -36,6 +36,7 @@ This project was created to practice JavaScript concepts like DOM manipulation, 
 
 ## 👨‍💻 Author
 Alakh Raj Singh
+
 B.Tech EC – JSS Academy of Technical Education, Noida
 
 ## GitHub: 
