@@ -35,6 +35,9 @@ https://alakhhawk47.github.io/Modern-stopwatch-webpage/
 This project was created to practice JavaScript concepts like DOM manipulation, event handling, and time functions while building a modern UI stopwatch.
 
 ## 👨‍💻 Author
-**Alakh Raj Singh**  
-GitHub: https://github.com/alakhhawk47
+**Alakh Raj Singh**
+B.Tech EC – JSS Academy of Technical Education, Noida
+
+## GitHub: 
+🔗 https://github.com/alakhhawk47
 
