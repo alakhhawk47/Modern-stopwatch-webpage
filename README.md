@@ -4,7 +4,8 @@ A modern and responsive stopwatch web application built using HTML, CSS, and Jav
 This project allows users to start, pause, and reset time with a clean and minimal user interface.
 
 ## 🚀 Live Demo
-🔗 https://stopwatch-alakh.netlify.app/
+🔗 
+https://alakhhawk47.github.io/Modern-stopwatch-webpage/
 
 ## 📌 Features
 - Start stopwatch
